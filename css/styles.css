@@ -3,6 +3,10 @@
   width: 500px
 }
 
+h4 {
+  text-decoration: underline;
+}
+
  .panel-heading img {
   width: 140px;
   float: left;
