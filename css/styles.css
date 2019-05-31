@@ -3,8 +3,8 @@
   width: 500px
 }
 
-.about img {
-  width: 200px;
+.important img {
+  width: 150px;
   float: left;
 }
 
@@ -12,9 +12,9 @@
   font-weight: bold;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1500px) {
   body {
-    background-color: black;
-    color: white;
+    background-color: teal;
+    color: black;
   }
 }
