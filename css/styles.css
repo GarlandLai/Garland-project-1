@@ -4,13 +4,17 @@
 }
 
 
-.panel-heading img {
+ .panel-heading img {
   width: 140px;
   float: left;
 }
 
 .title {
   font-weight: bold;
+}
+
+.important {
+  color: blue;
 }
 
 @media screen and (max-width: 1500px) {
