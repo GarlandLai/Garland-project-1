@@ -1,12 +1,12 @@
-# _ Garland Lai's Homepage"_
+# _Garland Lai's Homepage"_
 
-### _ Epicodus GIT/HTML/CSS Project for Week 1, May 31st, 2019_
+### _Epicodus GIT/HTML/CSS Project for Week 1, May 31st, 2019_
 
-### By _ **Garland Lai**_
+### By _*Garland Lai*_
 
 ## Description
 
-_ This will serve as my Portfolio landing page with all my current and future projects. It will reflect all materials I've learned during the GIT, HTML, and CSS Week one curriculum._
+_This will serve as my Portfolio landing page with all my current and future projects. It will reflect all materials I've learned during the GIT, HTML, and CSS Week one curriculum._
 
 ## Setup/Installation Requirements
 
