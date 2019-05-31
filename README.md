@@ -1,16 +1,16 @@
-# _Garland's Project Homepage_
+# _ Garland Lai's Homepage"_
 
-### _Epicodus GIT/HTML/CSS Project for Week 1, May 31st, 2019_
+### _ Epicodus GIT/HTML/CSS Project for Week 1, May 31st, 2019_
 
-### By _**Garland Lai**_
+### By _ **Garland Lai**_
 
 ## Description
 
-_This will serve as my Portfolio landing page with all my current and future projects. It will reflect all materials I've learned during the GIT, HTML, and CSS Week one curriculum._
+_ This will serve as my Portfolio landing page with all my current and future projects. It will reflect all materials I've learned during the GIT, HTML, and CSS Week one curriculum._
 
 ## Setup/Installation Requirements
 
-1. _[Click here] (https://github.com/GarlandLai/Garland-project-1.git)_
+1. _[Click here] (https://github.com/GarlandLai/Garland-project-1.git) to look at my webpage!_
 2. _Clone the repository._
 3. _Save to desired location._
 4. _Open the index_html file with your preferred web browser._
@@ -26,10 +26,10 @@ _If you have any questions, concerns, or suggestions, please contact me at Garla
 
 ## Technologies Used
 
-_Github_
-_HTML_
-_CSS_
-_Bootstrap_
+* _Github_
+* _HTML_
+* _CSS_
+* _Bootstrap_
 
 #### License
 
