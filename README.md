@@ -10,11 +10,11 @@ _This will serve as my Portfolio landing page with all my current and future pro
 
 ## Setup/Installation Requirements
 
-* _Go to https://github.com/GarlandLai/Garland-project-1.git_
-* _Clone the repository._
-* _Save to desired location._
-* _Open the index_html file with your preferred web browser._
-* _Look through the homepage and enjoy!_
+1. _[Click here] (https://github.com/GarlandLai/Garland-project-1.git)_
+2. _Clone the repository._
+3. _Save to desired location._
+4. _Open the index_html file with your preferred web browser._
+5. _Look through the homepage and enjoy!_
 
 ## Known Bugs
 
