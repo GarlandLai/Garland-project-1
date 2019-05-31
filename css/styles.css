@@ -26,6 +26,16 @@ h4 {
   padding: 6px;
 }
 
+.contact{
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.contacts {
+  background-color: black;
+  color: white;
+}
+
 @media screen and (max-width: 1500px) {
   body {
     background-color: teal;
